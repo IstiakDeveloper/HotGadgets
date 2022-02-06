@@ -31,6 +31,13 @@
     margin-bottom: 60px;
 }
 
+.hr-row{
+    background-image: linear-gradient( 90deg, red 20%, yellow 50%);
+    width: 100px;
+    height: 4px;
+    border-radius: 20%;
+    margin-bottom: 50px;
+}
 
 #categories h6{
     text-align: center;
