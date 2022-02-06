@@ -7,3 +7,44 @@
 .carousel-indicators [data-bs-target]{
     background-color: black;
 }
+
+
+
+.card-main{
+    margin-bottom: 20px;
+}
+.card{
+    margin-right: 20px;
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px 30px;
+    text-align: center;
+}
+.card:last-child{
+    margin-right: 0;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.gap{
+    margin-bottom: 60px;
+}
+
+
+#categories h6{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cat1, .cat2, .cat3{
+    background-color: white;
+    box-shadow: 2px 2px 5px gray;
+    padding: 10px;
+}
+ footer .footer-text{
+    text-align: center;
+    padding: 20px 0;
+ }
+    
+}
