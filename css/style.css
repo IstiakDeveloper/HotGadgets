@@ -1,0 +1,9 @@
+.bg-white{
+    background-color: white !important;
+}
+.bg-orange{
+    background-color: orange;
+}
+.carousel-indicators [data-bs-target]{
+    background-color: black;
+}
